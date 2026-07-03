@@ -17,7 +17,7 @@ The first version of the project will:
   - Likely Phishing
 - Explain why the URL received that verdict.
 
-## Future Goals
+## Roadmap
 
 - Machine learning classification
 - Browser extension for real-time link analysis
