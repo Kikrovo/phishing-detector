@@ -5,13 +5,26 @@ Full-stack web application that analyzes URLs and estimates the likelihood that 
 
 Build a web application capable of detecting potentially malicious URLs using a combination of rule-based analysis and machine learning.
 
-## Planned Features
+## MVP (Minimum Viable Product)
 
-- URL analysis
-- Risk score
-- Explanation of detected threats
-- Machine learning classifier
-- Modern web interface
+The first version of the project will:
+
+- Allow users to paste a URL into the application.
+- Analyze the URL for phishing indicators.
+- Return one of three verdicts:
+  - Likely Safe
+  - Suspicious
+  - Likely Phishing
+- Explain why the URL received that verdict.
+
+## Future Goals
+
+- Machine learning classification
+- Browser extension for real-time link analysis
+- Threat intelligence API integration
+- SSL certificate inspection
+- Domain reputation analysis
+- User accounts and scan history
 
 ## Tech Stack
 
